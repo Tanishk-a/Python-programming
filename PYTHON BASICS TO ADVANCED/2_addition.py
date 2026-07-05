@@ -1,0 +1,2 @@
+print("10 + 20 =", 10 + 20)
+print("Apple", "Banana", "Mango") # This line prints the sum of 10 and 20, which is 30. The second line prints the strings "Apple", "Banana", and "Mango" separated by spaces.
